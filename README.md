@@ -8,9 +8,9 @@
 
 A used car sales service called 'No Accidents, No Repaints' is developing an application to attract new customers. In this app, users will be able to find out the market value of their car. Build a model that can determine this value. You have access to data on technical specifications, configurations, and prices of other cars.
 
-The customer's important criteria are:
-◦ Prediction accuracy
-◦ Model training time
+The customer's important criteria are:<br>
+◦ Prediction accuracy<br>
+◦ Model training time<br>
 ◦ Model prediction time
 
 <br clear="left"/><br>*This project was completed during the learning process in Yandex.Practicum, in the Data Science Specialist profession.*
